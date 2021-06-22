@@ -1,4 +1,181 @@
-EESchema Schematic File Version 2
-EELAYER 25 0
+EESchema Schematic File Version 4
+EELAYER 30 0
 EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x25_Odd_Even J?
+U 1 1 60C39283
+P 1646 2227
+F 0 "J?" H 1696 3644 50  0000 C CNN
+F 1 "Conn_02x25_Odd_Even" H 1696 3553 50  0000 C CNN
+F 2 "" H 1646 2227 50  0001 C CNN
+F 3 "~" H 1646 2227 50  0001 C CNN
+	1    1646 2227
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x25_Odd_Even J?
+U 1 1 60C3D081
+P 3844 2203
+F 0 "J?" H 3894 3620 50  0000 C CNN
+F 1 "Conn_02x25_Odd_Even" H 3894 3529 50  0000 C CNN
+F 2 "" H 3844 2203 50  0001 C CNN
+F 3 "~" H 3844 2203 50  0001 C CNN
+	1    3844 2203
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C42B9F
+P 4144 1003
+F 0 "#PWR?" H 4144 753 50  0001 C CNN
+F 1 "GND" V 4149 875 50  0000 R CNN
+F 2 "" H 4144 1003 50  0001 C CNN
+F 3 "" H 4144 1003 50  0001 C CNN
+	1    4144 1003
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C4DCDE
+P 3644 1003
+F 0 "#PWR?" H 3644 753 50  0001 C CNN
+F 1 "GND" V 3649 875 50  0000 R CNN
+F 2 "" H 3644 1003 50  0001 C CNN
+F 3 "" H 3644 1003 50  0001 C CNN
+	1    3644 1003
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C5067D
+P 1446 1027
+F 0 "#PWR?" H 1446 777 50  0001 C CNN
+F 1 "GND" V 1451 899 50  0000 R CNN
+F 2 "" H 1446 1027 50  0001 C CNN
+F 3 "" H 1446 1027 50  0001 C CNN
+	1    1446 1027
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C530F9
+P 1946 1027
+F 0 "#PWR?" H 1946 777 50  0001 C CNN
+F 1 "GND" V 1951 899 50  0000 R CNN
+F 2 "" H 1946 1027 50  0001 C CNN
+F 3 "" H 1946 1027 50  0001 C CNN
+	1    1946 1027
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C565F0
+P 1446 1227
+F 0 "#PWR?" H 1446 977 50  0001 C CNN
+F 1 "GND" V 1451 1099 50  0000 R CNN
+F 2 "" H 1446 1227 50  0001 C CNN
+F 3 "" H 1446 1227 50  0001 C CNN
+	1    1446 1227
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C58510
+P 1946 1227
+F 0 "#PWR?" H 1946 977 50  0001 C CNN
+F 1 "GND" V 1951 1099 50  0000 R CNN
+F 2 "" H 1946 1227 50  0001 C CNN
+F 3 "" H 1946 1227 50  0001 C CNN
+	1    1946 1227
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C5A378
+P 1446 3427
+F 0 "#PWR?" H 1446 3177 50  0001 C CNN
+F 1 "GND" V 1451 3299 50  0000 R CNN
+F 2 "" H 1446 3427 50  0001 C CNN
+F 3 "" H 1446 3427 50  0001 C CNN
+	1    1446 3427
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C5F700
+P 1946 3427
+F 0 "#PWR?" H 1946 3177 50  0001 C CNN
+F 1 "GND" V 1951 3299 50  0000 R CNN
+F 2 "" H 1946 3427 50  0001 C CNN
+F 3 "" H 1946 3427 50  0001 C CNN
+	1    1946 3427
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C65445
+P 4144 3403
+F 0 "#PWR?" H 4144 3153 50  0001 C CNN
+F 1 "GND" V 4149 3275 50  0000 R CNN
+F 2 "" H 4144 3403 50  0001 C CNN
+F 3 "" H 4144 3403 50  0001 C CNN
+	1    4144 3403
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C69F2F
+P 3644 3403
+F 0 "#PWR?" H 3644 3153 50  0001 C CNN
+F 1 "GND" V 3649 3275 50  0000 R CNN
+F 2 "" H 3644 3403 50  0001 C CNN
+F 3 "" H 3644 3403 50  0001 C CNN
+	1    3644 3403
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C6EDA1
+P 1446 2127
+F 0 "#PWR?" H 1446 1877 50  0001 C CNN
+F 1 "GND" V 1451 1999 50  0000 R CNN
+F 2 "" H 1446 2127 50  0001 C CNN
+F 3 "" H 1446 2127 50  0001 C CNN
+	1    1446 2127
+	0    1    1    0   
+$EndComp
+$Comp
+L Transistor_BJT:2N2219 Q?
+U 1 1 60C748AF
+P 10145 1083
+F 0 "Q?" H 10335 1129 50  0000 L CNN
+F 1 "2N2219" H 10335 1038 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-39-3" H 10345 1008 50  0001 L CIN
+F 3 "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF" H 10145 1083 50  0001 L CNN
+	1    10145 1083
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:2N2219 Q?
+U 1 1 60C74D0E
+P 9434 1528
+F 0 "Q?" H 9624 1574 50  0000 L CNN
+F 1 "2N2219" H 9624 1483 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-39-3" H 9634 1453 50  0001 L CIN
+F 3 "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF" H 9434 1528 50  0001 L CNN
+	1    9434 1528
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
